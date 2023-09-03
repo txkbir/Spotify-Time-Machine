@@ -1,0 +1,5 @@
+secrets.py/
+token.txt/
+.idea/
+__pycache__/
+venv/
